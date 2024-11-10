@@ -1,0 +1,13 @@
+ 
+ 
+ 
+ 
+1.	Variabilele statice au o dimensiune fixa stabilita la inceput, in timp ce variabilele dinamice isi pot schimba dimensiunea in timpul rularii programului. 
+ 
+2.	In C, functiile pentru alocarea dinamica sunt malloc() si free(). malloc() aloca un bloc de memorie de o anumita dimensiune si returneaza un pointer catre acesta. 
+ 
+3.	O lista simplu inlantuita este o structura de date unde fiecare element (sau nod) contine date si un pointer catre urmatorul element. Nodurile nu sunt neaparat adiacente in memorie. 
+ 
+4.Operatiile de baza sunt: adaugarea unui nod si stergerea unui nod. 
+5.Prim este primul nod din lista, Ultim este ultimul nod, iar Curent este un nod de referinta folosit pentru a indica pozitia curenta in lista. 
+ 
